@@ -1,4 +1,5 @@
 /* C source code is found in matrix_multiplication.c */
+// Source: https://software.intel.com/en-us/articles/a-simple-example-to-measure-the-performance-of-an-intel-mkl-function
 
     printf (" Making the first run of matrix product using triple nested loop\n"
             " to get stable run time measurements \n\n");
